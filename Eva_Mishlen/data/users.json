@@ -1,0 +1,4 @@
+[
+  {"login": "cashier", "password": "123", "name": "Анна Смирнова", "role": "cashier"},
+  {"login": "admin", "password": "admin", "name": "Администратор", "role": "admin"}
+]
